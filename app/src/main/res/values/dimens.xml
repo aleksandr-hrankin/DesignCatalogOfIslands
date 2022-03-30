@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="global_margin_normal">32dp</dimen>
+
+    <dimen name="card_scale_normal">1.2</dimen>
+    <dimen name="card_scale_reduced">1</dimen>
+
+    <integer name="anim_scale_duration">450</integer>
+</resources>

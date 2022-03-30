@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BaseText">
+        <item name="fontFamily">@font/merriweather_regular</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="BaseText.Title">
+        <item name="fontFamily">@font/merriweather_bold</item>
+        <item name="android:textSize">38sp</item>
+    </style>
+
+    <style name="BaseText.Pain">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="BaseText.Pain.Small">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="BaseText.Pain.Small.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

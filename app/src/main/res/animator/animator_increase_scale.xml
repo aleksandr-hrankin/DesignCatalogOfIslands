@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:duration="@integer/anim_scale_duration"
+        android:propertyName="scaleX"
+        android:valueFrom="@dimen/card_scale_reduced"
+        android:valueTo="@dimen/card_scale_normal" />
+    <objectAnimator
+        android:duration="@integer/anim_scale_duration"
+        android:propertyName="scaleY"
+        android:valueFrom="@dimen/card_scale_reduced"
+        android:valueTo="@dimen/card_scale_normal" />
+</set>
